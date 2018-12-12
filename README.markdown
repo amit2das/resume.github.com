@@ -13,3 +13,8 @@ To run the app in development mode:
     $ rackup config.ru
 
 (You must have Ruby and the rack gem installed.)
+
+### Installations
+Ruby: https://www.ruby-lang.org/en/downloads/  
+Rack gem: https://rubygems.org/gems/rack/versions/1.6.4  
+
